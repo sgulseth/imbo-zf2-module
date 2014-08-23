@@ -4,7 +4,7 @@ This module introduces an [Imbo client](https://github.com/imbo/imboclient-php) 
 [![Build Status](https://travis-ci.org/imbo/imbo-zf2-module.png)](https://travis-ci.org/imbo/imbo-zf2-module)
 
 ## Installation
-Add `imbo/imbo-zf2-module` to your `composer.json` file, and enable the module in your `application.config.php` file:
+Add `imbo/imbo-zf2` to your `composer.json` file, and enable the module in your `application.config.php` file:
 
 ```php
 <?php
